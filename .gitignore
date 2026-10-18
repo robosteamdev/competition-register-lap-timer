@@ -1,0 +1,17 @@
+credentials.h
+.pio/
+.pio-core/
+build/
+dist/
+*.bin
+*.elf
+*.hex
+*.map
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sync-conflict-*
